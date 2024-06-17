@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maniselvam-v&label=Profile%20views&color=0e75b6&style=flat" alt="maniselvam-v" /> </p>
 
-- 💬 Ask me about **Machine Learning,python,react**
+- 💬 Ask me about **Machine Learning,python**
 
 - 📫 How to reach me **maniselvamvn@gmail.com**
 

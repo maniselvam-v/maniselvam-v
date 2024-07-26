@@ -23,5 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maniselvam-v&show_icons=true&locale=en&layout=compact" alt="maniselvam-v" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maniselvam-v&show_icons=true&locale=en" alt="maniselvam-v" /></p>
 
